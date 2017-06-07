@@ -1,3 +1,50 @@
-background {
-  color: purple;
+/**Header Navbar**/
+#topnavbarlinks{
+  margin-right: 20px;
+}
+
+#topnavbarlinks a {
+  font-size: 30px;
+}
+
+#jumboHeader {
+  background-image: url("../img/pattern-1.png");
+    background-repeat: repeat-x;
+    opacity: 0.76;
+}
+#jumboHeader h1 {
+  font-size: 80px;
+  font-weight: bold;
+  color: black;
+}
+
+/**Body**/
+body {
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 25px;
+  background-color: #F9F1D9;
+
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+#contactMe {
+  padding-bottom: 14px;
+
+}
+
+#waysContactMe > a{
+    margin-right: 20px;
+}
+
+#projects img {
+  width:204px;
+  height:228px;
+}
+
+#education {
+  margin-bottom: 100px;
 }
